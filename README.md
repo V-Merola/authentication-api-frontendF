@@ -1,21 +1,7 @@
-<<<<<<< HEAD
 # login_register
 
-Login page & Register page
+Login page, Register page, Forgot Password Page, Reset Password Page for authentication-api microservice.
 
-## Getting Started
+![LoginPage](https://github.com/V-Merola/authentication-api-frontendF/assets/78219137/c73b9f80-b9bf-4df5-8f7c-f03bcd7e252e)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# authentication-api-frontend
-Flutter app for microservice authentication-api
->>>>>>> c2733b348b5b42ad383321d56408bfe04b25e7ae
