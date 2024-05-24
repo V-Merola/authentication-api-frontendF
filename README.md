@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # login_register
 
 Login page & Register page
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# authentication-api-frontend
+Flutter app for microservice authentication-api
+>>>>>>> c2733b348b5b42ad383321d56408bfe04b25e7ae
